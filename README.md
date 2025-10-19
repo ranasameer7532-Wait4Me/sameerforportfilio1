@@ -209,7 +209,8 @@
 
   <!-- Home -->
   <section id="home">
-    <img src="sameer.jpg" alt="Profile Picture" class="profile-img">
+    <img src="![sameer](https://github.com/user-attachments/assets/5b8b6cf4-073a-4e55-b95d-7a1e0369f24a)
+" alt="Profile Picture" class="profile-img">
     <h1>Sameer Ahmad</h1>
     <h4>Registration No: FA23-BCS-130</h4>
     <h5>Comsats University Islamabad</h5>
@@ -314,5 +315,4 @@
 </body>
 </html>
 
-![sameer](https://github.com/user-attachments/assets/08bfe79c-9833-4a0e-b41c-3c1f4e139166)
 
